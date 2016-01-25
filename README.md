@@ -7,5 +7,7 @@ Objective: Given time and location, you must predict the probability of the cate
 Dataset: This competition’s dataset provides nearly 12 years of crime reports from across all of San Francisco’s neighborhoods.
 
 Get the data sets:
+
 test:  https://www.kaggle.com/c/sf-crime/download/test.csv.zip
+
 train: https://www.kaggle.com/c/sf-crime/download/train.csv.zip
